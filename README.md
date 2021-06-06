@@ -34,3 +34,5 @@ This is a list of all the course work I've done at Stevens and Mercer!
 Heads up, if ***you*** can find these repositories, then so can the ***professors***! 
 
 [MOSS](https://theory.stanford.edu/~aiken/moss/) is a powerful tool that will allow professors to detect any similarities between code snippets (ex: mine vs. yours).
+
+Professors, if you want me to private a repository, please reach out to me at ealtenx@gmail.com.
